@@ -1,0 +1,66 @@
+It is part od Supervised Learning
+
+It works based on the linear relationship of the inputs.
+
+Input can be o one column oe any number of column
+
+So linear regression is the term we coined based on its working principle
+
+In Machine Learning:
+
+1. Regression
+2. Classification
+
+Model Selection:
+
+Target : Regression(Continuous) or Classification (Discrete)
+
+Input or Feature : how the data is or relationship among the data can
+also help us decide the model to choose
+
+Year -----      Price
+2000            20000
+2001            30000
+2002            40000
+2003            50000
+2004            60000
+2005            70000
+2006            80000
+2007            90000
+
+Input or X data or Feature Data or Independent Data:
+
+Year
+
+Target or output or Y Data or Dependent Data
+
+Price
+
+===================Training and Testing======================================
+Overall Data
+Year   -----     Price
+2000            20000
+2001            30000
+2002            40000
+2003            50000
+2004            60000
+2005            70000
+2006            80000
+2007            90000
+
+fit
+x_train       y_train
+Year   -----    Price
+2000            20000
+2001            30000
+2002            40000
+2003            50000
+2004            60000
+2005            70000
+
+x_test          y_test
+Predict
+2006            80000
+2007            90000
+
+model.predict(x_test)
