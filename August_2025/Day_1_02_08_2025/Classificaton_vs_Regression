@@ -1,0 +1,40 @@
+Player_Name     TEam    Score   Average   Won_Title  Specialization
+------------------------------------------------------------------
+Dhoni            CSK     6000    33          Yes        WK
+Kohli            RCB     8000    44           No        Batsman
+Raina             GT     7000    41          Yes        AR
+Rohit             MI     5500    39           No        Batsman
+-----------------------------------------------------------------
+
+Column Understanding:
+
+Player_Name - Categorical Column
+Team        - Categorical Column
+Score       - Numerical Column
+Average     - Numerical Column
+Won_Title   - Categorical Column
+Specialization - Categorical Column
+
+Note:
+
+1. We will never user player name or player Number for our model.
+
+-----------------------------
+Classification vs Regression
+-----------------------------
+Regression: This is called as Continuous data.
+
+Score and Average
+
+------------------------------------
+Classification: This is called as non-continuous data or discrete
+
+Won_Title, Specialization, Team
+
+Binary Classification:
+
+Won_Title - Yes or no , True or False,
+
+Multi Classification:
+
+Specialization : WK , Batsman, Bowler

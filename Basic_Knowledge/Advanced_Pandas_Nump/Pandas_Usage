@@ -1,0 +1,99 @@
+1. Pandas third party library
+2. pandas has 3 important functions
+   2.1 Series    ---  1 dimension
+   2.2 DataFrame ---  2 dimension
+   2.3 Panels    ---  3 dimension
+
+3. Strutrue
+   Un-Structured
+   Semi-Structured
+
+Machine Learning :
+df:
+
+Year   Price    City
+1990   10000    Chennai
+1991   20000    Bangalore
+1992   30000    Chennai
+1994   40000    Mumbai
+
+Input or Feature or Independent Data ----> x data
+
+x = df[["Year","City]]
+
+Output or Target or Dependent DAta   ----> y data
+
+y = df["Price"]
+
+-------------------------------------------------------------
+
+df:
+
+Year   Price    City        Purchased_or_Not
+1990   10000    Chennai        Yes
+1991   20000    Bangalore      No
+1992   30000    Chennai        No
+1994   40000    Mumbai         Yes
+
+Input or Feature or Independent Data ----> x data
+
+x = df[["Year","City","Price]]
+
+Output or Target or Dependent DAta   ----> y data
+
+y = df["Purchased_or_Not"]
+
+----------------------------------------------------------------------------
+
+df:
+
+Score     Stumping    Wickets    Catch  Education  Specality
+10000       190         2          250    Degree    Wk
+9000        0           9          100    Diploma   Batsman
+900         0           200        80     Master    Bowler
+5000        0           180        60     Doctrate  AR
+
+Input or Feature or Independent Data ----> x data
+
+x = df[["Score","Stumping","Wickets","Catch","Education"]]
+
+Output or Target or Dependent DAta   ----> y data
+
+y = df["Specality"]
+
+-----------------------------------------------------------------------------
+
+Non-Linear
+
+
+Fever   Flu    Vomit   Fatigue    Corona
+YEs     No      No      Yes         YES
+No      No      No      No          No
+Yes     Yes     YEs    No            YEs
+
+x = df[["Fever","Flu","Vomit","Fatigue"]]
+y = df["Corona"]
+
+
+Continuous Data(Regression) ----> Year and Price
+
+Categorical Data(Classification) ---> City
+                  1. Binary Classification
+                  2. Multi - Classifcation
+                       2.1  Ordinal
+                       2.2  Nominal
+Data in General:
+
+    Linear
+    Non-Linear
+
+In general anything that has limited value is what we call it as "Categorical data"
+
+Data Preprocessing
+            Finding Duplicates and Removing Duplicates
+            Finding Null Values and Removing Null Values
+            Finding Null Values and Filling the Null Values
+            Converting into categorical data into numerical data
+
+Data Model
+Data Metrics and Visualization

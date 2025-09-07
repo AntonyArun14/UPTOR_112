@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78bfdeeb-0d4d-4582-bd49-67a02f2c6ae8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Uptor_112.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD_ON_Coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_1_02_08_2025/Basics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_1_02_08_2025/Classificaton_vs_Regression" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_2_03_08_2025/Basics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_2_03_08_2025/Classificaton_vs_Regression" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_2_03_08_2025/ML+Cheat+Sheet_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_4_10_08_2025/interview_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_4_10_08_2025/machine_learning_basics_file_reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_5_16_08_2025/machine_learing_basic_file_manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_6_17_08_2025/house_price_bd.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_6_17_08_2025/machine_learing_basic_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_6_17_08_2025/machine_learning_category_to_numerical_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_6_17_08_2025/machine_learning_dupulicate_manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_6_17_08_2025/machine_learning_preprocessing_scikit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_6_17_08_2025/machine_learning_processing_column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/feature_Scaling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/machine_learing_feature_engineering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/machine_learn_preprocessing_feature_scaling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/machine_learning_preprocessing_on_hot_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/machine_learning_preprocessing_one_hot_encoding_eith_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/one_hot_encoding" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_8_24_08_2025/Visualizations/Visualization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_8_24_08_2025/Visualizations/matplotlib_visualizations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_8_24_08_2025/diamonds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_8_24_08_2025/machine_learning_preprocessing_feature_scaling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/5.01_Introduction_to_Data_Visualization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/5.02_Seaborn_Plotly_Visualization_Basics_to_Advanced.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/machine_learning_numpy_detailing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/machine_learning_visualization_basiscs1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/visualiztion_matplolib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/Pandas_Usage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/Python_DS_Instl_error-details-screenshots.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/SalesData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/numpy_day2_feb_02_2025.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/pandas_detailing_day_7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/python_numpy_day5_jan_27_01_2025.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/python_pandas_day_4_jan_14_01_2025.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/python_pandas_jan_22_01_2025.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/retail_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Advanced_Pandas_Nump/student_marks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Cloud/Cloud_and_AI_ML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/GITHUB/GITHUB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Interview_112" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/Python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Knowledge/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic_Python/Standard_and_Min_Max_Scalar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="36Zgmf0OlBWK99hrC7Ht9ErQpjd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Standard_and_Min_Max_Scalar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interview_question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learing_basic_file_manipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learing_basic_preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learing_feature_engineering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learn_preprocessing_feature_scaling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_basics_file_reading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_category_to_numerical_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_dupulicate_manipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_numpy_detailing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_preprocessing_feature_scaling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_preprocessing_on_hot_encoder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_preprocessing_one_hot_encoding_eith_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_preprocessing_scikit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_processing_column.executor&quot;: &quot;Run&quot;,
+    &quot;Python.machine_learning_visualization_basiscs1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib_visualizations.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ANTONY ARUN/Uptor_112&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ANTONY ARUN\Uptor_112" />
+      <recent name="D:\ANTONY ARUN\Uptor_112\Generic_Python" />
+      <recent name="D:\ANTONY ARUN\Uptor_112\Basic_Knowledge" />
+      <recent name="D:\ANTONY ARUN\Uptor_112\August_2025\Day_9_30_08_2025" />
+      <recent name="D:\ANTONY ARUN\Uptor_112\.venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ANTONY ARUN\Uptor_112\August_2025\Day_7_23_08_2025" />
+      <recent name="D:\ANTONY ARUN\Uptor_112\August_2025\Day_6_17_08_2025" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Standard_and_Min_Max_Scalar">
+    <configuration name="Standard_and_Min_Max_Scalar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Uptor_112" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../DS 112/LMES_112/LMES_112_Saturday_Sunday/Generic_Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../DS 112/LMES_112/LMES_112_Saturday_Sunday/Generic_Python/Standard_and_Min_Max_Scalar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="machine_learing_feature_engineering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Uptor_112" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August_2025/Day_7_23_08_2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/machine_learing_feature_engineering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="machine_learn_preprocessing_feature_scaling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Uptor_112" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August_2025/Day_7_23_08_2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August_2025/Day_7_23_08_2025/machine_learn_preprocessing_feature_scaling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="machine_learning_numpy_detailing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Uptor_112" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August_2025/Day_9_30_08_2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/machine_learning_numpy_detailing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="machine_learning_visualization_basiscs1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Uptor_112" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August_2025/Day_9_30_08_2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August_2025/Day_9_30_08_2025/machine_learning_visualization_basiscs1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Standard_and_Min_Max_Scalar" />
+        <item itemvalue="Python.machine_learning_numpy_detailing" />
+        <item itemvalue="Python.machine_learning_visualization_basiscs1" />
+        <item itemvalue="Python.machine_learn_preprocessing_feature_scaling" />
+        <item itemvalue="Python.machine_learing_feature_engineering" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78bfdeeb-0d4d-4582-bd49-67a02f2c6ae8" name="Changes" comment="" />
+      <created>1765219668979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765219668979</updated>
+    </task>
+    <servers />
+  </component>
+</project>

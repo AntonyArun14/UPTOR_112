@@ -1,0 +1,91 @@
+9.8.2025
+====================================================================
+1. Machine Learning :
+
+   It is kind of algorithm that takes the data, finds the
+   pattern, insightful, details about the data
+   and used for either "Prediction" or "analysis"
+
+2. How to achieve this ?
+   Process of doing thing on machine learning is done
+   via libraries and many software language.
+
+   Python , scikit-learn (best used combination)
+
+3. What is data science?
+
+   Process of finding insights, details, forecast , prediction
+   about the data (structure or unstructured) via a algorithm and model
+   is called data science.
+
+   Data Science can be achieved using either "Machine Learning"
+   or "Deep Learning"
+
+4. what is the library which we can use for file reading??
+
+import csv
+import pandas
+
+Note: pandas is widely used considering its easy reading option
+
+5. what are all the different file that can be read using pandas.
+
+csv, excel, json....
+
+6. Is is necessary to create virtual environment ??
+
+YEs !!!
+
+Virtual environment can be created using following two mechanism.
+
+1. through pycharm
+2. through command line prompt (home assignment)
+
+What is StandardScalar and MinMaxScaler.
+
+Both of this is called Feature Scaling.
+Feature ---> input or x data or independent data
+Scaling ---> Converting one form of numbers into another form of numbers
+
+This Feature Scaling can be achieved by two libraries.
+
+1. from sklearn.preprocessing import StandardScalar
+2. from sklearn.preprocessing import MinMaxScaler
+
+StandardScaler ---> Returns the output in Normal Distribution
+MinMaxScalar ---> Returns the output in Uniform Distribution
+
+StandardScalar value will be between -1 to 1
+MinMaxScalar value will be between 0 to 1
+
+When to use these feature scaling?
+
+When we have different unit of measurement for different column, then model may not
+perform well as expected. So we will be using this to ensure all the columns stay in the
+accepted distribution.
+
+Where it is used?
+
+Feature scaling is used or can be used anywhere but specifically it should be used in
+"distance based algorithm"
+
+When StandardScaler and MinMaxScaler.
+
+StandardScalar: (KNN, SVM, KMeans, Hierarchical Clustering)
+In all the distance based algorithms
+
+MinMaxScaler:
+In all the neural network based (deep learning)
+
+Note: Algorithms like Decision Tree, Random Forest, Linear Regression
+and Logistic Regression may not need scaling.
+
+
+
+
+
+
+
+
+
+

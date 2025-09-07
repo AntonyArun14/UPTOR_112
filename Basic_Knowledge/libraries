@@ -1,0 +1,12 @@
+Python is programming language
+
+Pycharm is the editor or tool or SDK or IDE for running the code
+
+Virtual Environment - to create separate entity for each of the project
+we work in single system  or single instance of python version, we
+will create python virtual environment for avoiding the conflicts.
+
+Jupyter:
+
+Open---> Command Prompt(terminal) ---> pip install jupyter(windows)
+                                       pip3 install jupyter (mac)

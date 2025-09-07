@@ -1,0 +1,26 @@
+player  runs  team
+dhoni   1000    CSK
+raina   2000    CSK
+kohli   4000    RCB
+jadeja  2500    RR
+samson  3000    KKR
+rana    2900    KKR
+
+One Hot Encoding
+                    0     1     2  3
+player  runs       csk    rcb   rr kkr      without sparsing
+--------------------------------------------
+0 dhoni   1000        1     0     0    0     (0, 0)
+1 raina   2000        1     0     0    0     (1, 0)
+2 kohli   4000        0     1     0    0     (2, 1)
+3 jadeja  2500        0     0     1    0     (3, 2)
+4 samson  3000        0     0     0    1     (4, 3)
+5 rana    2900        0     0     0    1     (5, 3)
+
+with "sparse_output=False"
+[[1,0,0,0]
+[1,0,0,0]
+[0,1,0,0]
+[0,0,1,0]
+[0,0,0,1]
+[0,0,0,1]]

@@ -1,0 +1,197 @@
+Data Science - It is the process of finding a beautiful, informative
+and pattern about the data.
+
+Reason: Either for the direct projection or future prediction
+
+DataScience is not a programming language. It is just a mechanism.
+
+Programming Language:
+
+Programming language is the language to communicate with our system.
+
+1. JAVA
+2. C
+3. C++
+4. C#
+5. Python (Most Used)
+
+Data :
+1. Structured Data - Focus in our Course
+  1.1 Excel 1.2 CSV 1.3 DataBase
+
+2. Un-Structured Data - Focussed
+  2.1 Video 2.2 Audio 2.3 Image
+
+3. Semi-Structured Data - Un-Focussed
+  3.1 Chat 3.2 text file
+
+Data Science is process of finding insights, patterns, flows of the data
+and that can be done by two division.
+
+----------------------------------------------------
+Machine Learning:
+Understanding of the structured data
+
+Deep Learning:
+Understanding of the unstructured data
+
+------------------------------------------------------
+Data Science , Python and Machine Learning Concept
+
+Machine Learning: It is the process of manipulating data and processing
+for the structured elements like CSV file, Excel and DataBase.
+
+It is algorithm to process the structured data.
+
+----------------------------------------------------------
+
+Data Science =
+
+Take or read the data ---> CSV EXCEL DB
+Pre processing        ---> ETL (Extract Transform Load)
+Model                 ---> Use it for prediction
+Visualization          ---> Know your data with this visualization
+
+Tools:
+
+Python , machine learning, powerBI
+
+
+Data Engineering = Storage, Retention,
+
+Tools:
+Data Lake , Hadoop
+
+Data Analysis or Analytics:
+
+Take or read the data ----> CSV, Excel, or any other source(DB)
+Pre-Process and Visualize ---> ETL
+
+Tools:
+PowerBI, Tableau, Excel (Important), DB, PROGRAMMING LANGUAGE
+
+NOTE:
+
+DB - SQL (MYSQL, MS SERVER, ORACLE, POSTGRE)
+   - NO-SQL (MONGODB)
+     CLOUD (GRAPHQL)
+
+
+Architecture on our Program(course):
+
+Language  : Python
+Version   : 3.10 or above
+Tools     : Pycharm, Visual Studio and Jupyter
+Libraries : scikit-learn (Machine learning models)
+            matplotlib (Visualization)
+            seaborn (Visualization)
+            scipy  (advanced machine learning process)
+            statsmodels (for stat)
+            pandas (data reading, data process)
+            numpy  (numerical based activity on the data)
+
+Deep Learning : pytorch, keras, NLP
+
+Data Base : MysQL, Python based DB Execution
+
+Visualization: PowerBI
+
+Cloud  : (Aws or Azure)
+
+Tools  : GITHUB, JENKINS
+
+Syllabus Point of view:
+
+Machine Learning process:
+
+1. Pre-Processing
+      1.1 Data Cleaning
+           1.1.1 Null Data (removal or filling)
+           1.1.2 Duplicate removal
+      1.2 Data or Feature Wrangling(ETL)
+          1.2.1 Converting Categorical Data into numerical data
+          1.2.2 Column can be transform into another column
+      1.3 Feature Scaling
+         1.3.1 One form of Numerical data into another form of numerical data
+      1.4 EDA (Explorative Data Analysis)
+        1.4.1 Understanding of data by visualizing it.
+
+Libraries: pandas, numpy, scikit-learn, matplotlib and seaborn
+
+2. Model Selection and Prediction
+
+Model - Inbuilt algorithm to do certain activity.
+
+2.1 Machine Learning:
+    2.1.1 Supervised Learning
+          Note: Knowing what we going to predict the target is called supervised
+
+         Classification and Regression
+
+         Linear Regression
+         Logistic Regression
+         DecisionTree Classifier, DecisionTree Regressor
+         SVM Classifier, SVM Regressor
+         KNN Classifier, KNN Regressor
+         RandomForest Classifier, RandomForest Regressor
+         NaiveBayes Classifier, NaiveBayes Regressor
+
+
+    2.1.1 Un-Supervised Learning
+          Note: Just doing the process without knowing the target
+
+          Clustering:
+          K-Means Clustering
+          Hierarchical Clustering
+               TopDown (Agglomerative Clustering)
+               BottomUp (Divisive Clustering)
+          PCA
+          t-SNA
+          DBSCAN
+
+    2.1.2 Semi-Supervised Learning
+
+3. Metrics , Optimization, Fine Tuning and Deployment
+
+    How well the model is performed
+    How can i produce better model
+    How can i fine tune it
+    How can i convert this into a API application
+
+Software to be downloaded:
+
+1. Python
+2. Pycharm for Python
+3. Jupyter for Python
+4. PowerBI(Windows)
+5. GITHUB (Sign In)
+6. GITHUB Desktop
+7. Cloud (AWS - Free Version)
+8. MySQL (Server) and MongoDB(No-SQL)
+
+----------------------Code Execution---------------
+
+1. Pycharm -  Python (Code)
+2. Cloud   - (Code + UI)
+3. DataIkq - (No-Code)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

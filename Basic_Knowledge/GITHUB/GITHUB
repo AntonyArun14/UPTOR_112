@@ -1,0 +1,165 @@
+COMMON LINK : https://github.com/mohansivaraman7/UPTOR_112.git
+
+
+GITHUB Registration:
+
+https://github.com/login
+
+Basic: it is similar to google drive to store and retrieve files
+
+Register:
+
+1. either do it manually
+2. or do with your google SSO (Single Sign On)
+
+GITHUB Usage:
+
+1. I have Project "LMES_112_Saturday_Sunday". I want share this project
+with everyone without physical sharing.
+
+2. So i use should something like "repository"(Common Storage and Sharing)
+    2.1 So we will consider "GITHUB" as common repo for the same.
+
+Now imagine this situation, i want to do some changes to the files which i had it in my
+repo
+
+Mohan    - already has his parent folder (Main Branch)
+--------------------------------------------------------
+Tasks:
+
+Karthika - to add KNN with regression model
+divya    - to add SVM with regression
+ashok    - to add visualization to the existing code
+arun     - to add KNN with Classification
+raja     - to add SVM with classification
+
+Step 1: (Physical storage and MergeR)
+Each one of the above should first clone my repo or download the parent folder
+
+Step 2:
+Each one hav to do the changes and update to me in mail.
+
+Day 1 Karthika submits the files so am adding her file with my main file
+
+        Mohan + Karthika's File (Main)
+
+Day 2 ashok submits the files so am adding his file with the main file
+
+       Mohan + Karthika's + ashok's file (Main)
+
+Day 3 raja submits the files so am adding his file with the main file
+
+       Mohan + Karthika's + ashok's + raja's File
+
+Conflicts: Now Raja has made some changes in "hello.py" where ashok also has his changes
+
+now to overcome all this problem of file and folders , we should go for file or folder or project
+versioning.
+
+So GITHUB will act as project versioning Tool.
+
+Following is via github:
+
+Basic Step: Each one of the above should first clone my repo or download the parent folder
+
+Day 1 Karthika submits the files so am adding her file with my main file
+
+        Mohan + Karthika's File
+
+     Step 1: She have to do the following
+
+         1.1 git add <file_name>
+               git add knn_regression.py
+         1.2 git commit -m "to add knn regression model into main"
+         1.3 git push origin https://github.com/mohansivaraman7/UPTOR_112.git
+
+         Now mohan can able to see the new changes made by karthika on her branch.
+
+         main ---> karthika
+
+         1.4 create a PR (Pull Request)
+         1.5 once PR is created she have to intimate me,
+
+         after i ll go and cross verify her changes, if all looks fine then i ll merge it.
+
+
+
+
+
+Day 2 ashok submits the files so am adding his file with the main file
+
+
+         1.1 git add <file_name>
+               git add SVM_regression.py
+         1.2 git commit -m "to add SVM regression model into main"
+         1.3 git push origin https://github.com/mohansivaraman7/UPTOR_112.git
+
+         Now mohan can able to see the new changes made by karthika on her branch.
+
+         main ---> ashok's branch
+
+         1.4 create a PR (Pull Request)
+         Now ashok will get some message saying his branch is outdated.
+
+         Since ashok's main is not update. he have to pycharm and run the following command
+
+         1.4.1   git pull
+
+         after that execute the PR
+
+         1.4.2 create a PR (now it will updated_
+
+         1.5 once PR is created she have to intimate me,
+
+         after i ll go and cross verify her changes, if all looks fine then i ll merge it.
+
+Day 3 raja submits the files so am adding his file with the main file
+
+       Mohan + Karthika's + ashok's + raja's File
+
+
+
+
+
+
+
+
+Scenerio Resolution 01:
+
+
+git clone http://divya.github.com/data_Science.git on aug 25
+
+in your local laptop you will see the latest from the above repo which is main branch
+
+git checkout -b "my_new_branch"
+
+git add new_testing.py
+git commit -m "welcome to india"
+git push
+
+PR
+PR request is on september 5
+
+main ----> my_new_branch (PR request for teh same)
+
+When PR says your branch is behind 30 commits
+
+Go to your laptop:
+
+git checkout main
+
+git pull
+
+(after this you main branch will be updated with origin - github)
+
+git checkout my_new_branch
+
+Scenerio Resolution 2:
+
+see i have company called "uptor"
+
+uptor has github repo called "https://uptor.github.com/ds.git"
+
+now i want to do push to this repo
+
+Every lapotp has thier own SSH public key
